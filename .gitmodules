@@ -1,3 +1,6 @@
 [submodule "mobile-course-materials"]
 	path = mobile-course-materials
 	url = https://github.com/otago-polytechnic-bit-courses/mobile-course-materials.git
+[submodule "mobile-practicals-rubandass"]
+	path = mobile-practicals-rubandass
+	url = https://github.com/otago-polytechnic-bit-courses/mobile-practicals-rubandass.git
